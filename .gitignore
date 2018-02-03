@@ -1,0 +1,8 @@
+*.pyc
+*~
+__pycache__
+tutvenv/
+db.dqlite3
+/static
+website/settings.py
+.DS_Store
